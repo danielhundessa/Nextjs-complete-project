@@ -14,7 +14,8 @@ pnpm dev
 bun dev
 ```
 # npm install better-sqlite3
-# node run dev
+# node run dev npm install @aws-sdk/client-s3
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
